@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/panhandle-splash/static/css/main.073c9b0a.css",
-    "main.js": "/panhandle-splash/static/js/main.60dd9697.js",
+    "main.css": "/panhandle-splash/static/css/main.47d50370.css",
+    "main.js": "/panhandle-splash/static/js/main.53fbb3ba.js",
     "static/js/787.c2589a4e.chunk.js": "/panhandle-splash/static/js/787.c2589a4e.chunk.js",
+    "static/media/blowdry.JPG": "/panhandle-splash/static/media/blowdry.7fb21513d530b4bf864d.JPG",
+    "static/media/logoBW.png": "/panhandle-splash/static/media/logoBW.2cc82b1676bd60b3abe9.png",
     "static/media/logo.svg": "/panhandle-splash/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/panhandle-splash/index.html",
-    "main.073c9b0a.css.map": "/panhandle-splash/static/css/main.073c9b0a.css.map",
-    "main.60dd9697.js.map": "/panhandle-splash/static/js/main.60dd9697.js.map",
+    "main.47d50370.css.map": "/panhandle-splash/static/css/main.47d50370.css.map",
+    "main.53fbb3ba.js.map": "/panhandle-splash/static/js/main.53fbb3ba.js.map",
     "787.c2589a4e.chunk.js.map": "/panhandle-splash/static/js/787.c2589a4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.60dd9697.js"
+    "static/css/main.47d50370.css",
+    "static/js/main.53fbb3ba.js"
   ]
 }
