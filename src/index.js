@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 import PanhandleLogo from './assets/images/logoBW.png';
@@ -18,7 +17,7 @@ root.render(
     <div className="text-container">
       <p>Don't worry, you can still contact us to schedule an appointment. 
         Please give us a call at <span style={{fontWeight: 700}}>(509) 447-2176</span> so we can get you taken care of!
-        In the meantime, don't forget to follow us on <a href="https://www.instagram.com/panhandlestudio/?hl=en">Instagram!</a>
+        In the meantime, don't forget to follow us on <a href="https://www.instagram.com/panhandlestudio/?utm_source=ig_embed&amp;utm_campaign=loading">Instagram!</a>
       </p>
     </div>
 
