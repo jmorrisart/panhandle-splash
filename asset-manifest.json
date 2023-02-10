@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/panhandle-splash/static/css/main.5363509a.css",
-    "main.js": "/panhandle-splash/static/js/main.a4e506af.js",
-    "static/js/787.c2589a4e.chunk.js": "/panhandle-splash/static/js/787.c2589a4e.chunk.js",
-    "static/media/blowdry.JPG": "/panhandle-splash/static/media/blowdry.7fb21513d530b4bf864d.JPG",
-    "static/media/logoBW.png": "/panhandle-splash/static/media/logoBW.2cc82b1676bd60b3abe9.png",
-    "index.html": "/panhandle-splash/index.html",
-    "main.5363509a.css.map": "/panhandle-splash/static/css/main.5363509a.css.map",
-    "main.a4e506af.js.map": "/panhandle-splash/static/js/main.a4e506af.js.map",
-    "787.c2589a4e.chunk.js.map": "/panhandle-splash/static/js/787.c2589a4e.chunk.js.map"
+    "main.css": "/static/css/main.5363509a.css",
+    "main.js": "/static/js/main.e3a3a537.js",
+    "static/js/787.c2589a4e.chunk.js": "/static/js/787.c2589a4e.chunk.js",
+    "static/media/blowdry.JPG": "/static/media/blowdry.7fb21513d530b4bf864d.JPG",
+    "static/media/logoBW.png": "/static/media/logoBW.2cc82b1676bd60b3abe9.png",
+    "index.html": "/index.html",
+    "main.5363509a.css.map": "/static/css/main.5363509a.css.map",
+    "main.e3a3a537.js.map": "/static/js/main.e3a3a537.js.map",
+    "787.c2589a4e.chunk.js.map": "/static/js/787.c2589a4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5363509a.css",
-    "static/js/main.a4e506af.js"
+    "static/js/main.e3a3a537.js"
   ]
 }
