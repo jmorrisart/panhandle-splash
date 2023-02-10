@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.5363509a.css",
-    "main.js": "/static/js/main.2649856c.js",
-    "static/js/787.c2589a4e.chunk.js": "/static/js/787.c2589a4e.chunk.js",
-    "static/media/blowdry.JPG": "/static/media/blowdry.7fb21513d530b4bf864d.JPG",
-    "static/media/logoBW.png": "/static/media/logoBW.2cc82b1676bd60b3abe9.png",
-    "index.html": "/index.html",
-    "main.5363509a.css.map": "/static/css/main.5363509a.css.map",
-    "main.2649856c.js.map": "/static/js/main.2649856c.js.map",
-    "787.c2589a4e.chunk.js.map": "/static/js/787.c2589a4e.chunk.js.map"
+    "main.css": "./static/css/main.5363509a.css",
+    "main.js": "./static/js/main.2d5a45fa.js",
+    "static/js/787.c2589a4e.chunk.js": "./static/js/787.c2589a4e.chunk.js",
+    "static/media/blowdry.JPG": "./static/media/blowdry.7fb21513d530b4bf864d.JPG",
+    "static/media/logoBW.png": "./static/media/logoBW.2cc82b1676bd60b3abe9.png",
+    "index.html": "./index.html",
+    "main.5363509a.css.map": "./static/css/main.5363509a.css.map",
+    "main.2d5a45fa.js.map": "./static/js/main.2d5a45fa.js.map",
+    "787.c2589a4e.chunk.js.map": "./static/js/787.c2589a4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5363509a.css",
-    "static/js/main.2649856c.js"
+    "static/js/main.2d5a45fa.js"
   ]
 }
